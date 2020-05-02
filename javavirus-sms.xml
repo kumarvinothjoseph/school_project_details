@@ -1,0 +1,8 @@
+<service>
+      <id>javavirus-sms</id>
+      <name>javavirus-sms</name>
+      <description>Java Virus - SMS Project</description>
+      <executable>C:\Program Files\Java\jre1.8.0_251\bin\java</executable>
+      <arguments>-jar "%BASE%\SMSApp-1.0-SNAPSHOT.war"</arguments>
+      <logmode>rotate</logmode>
+    </service>

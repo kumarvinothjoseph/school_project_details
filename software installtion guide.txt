@@ -1,0 +1,18 @@
+Step 1: Go to this Website - https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+Step 2: Download the Java Software Based on Windows 32 Bit or Windows 64 Bit.
+Step 3: Install this in your system.
+Step 4: Search in your computer "Edit Environment Variable". Click and then go to Environment Variable and Click
+Step 5: Above installation file location should be like this "C:\Program Files\Java\jdk1.8.0_251\bin"
+Step 6: Give this location under the System Varible -> Path (This is called Java Property Configuration)
+
+Step 7: Go to this website : https://dev.mysql.com/downloads/windows/installer/5.7.html
+Step 8: Download the software and install in your local.
+Step 9: While installing it will ask you to set the username and password. Give it username as "root" and password as "root".
+Step 10: After install the software, search workbench and open the software and run the query.sql file. 
+Step 11: Put all my files into one folder and configured the JRE path (C:\Program Files\Java\jre1.8.0_251\bin\java) - Check in your machine
+Step 12:Open command prompt as Administrator
+Step 13: Go to that folder in command prompt where you placed the files.
+Stpe 14: Enter this command "javavirus-sms.exe install"
+Step 15: Enter this command "javavirus-sms.exe start"
+Step 16: Wait for 5 mits and enter http://localhost:8080/home in your web browser.
+
